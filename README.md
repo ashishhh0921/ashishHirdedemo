@@ -1,2 +1,3 @@
 # ashishHirdedemo
-this is my first g github repository
+This is my first g github repository
+Author - Ashish Hirdee
